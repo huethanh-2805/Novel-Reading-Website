@@ -1,5 +1,5 @@
 # Software-Design-Project-UngDungTongHopVaDocTruyenTrucTuyem
-##Danh sách thành viên nhóm 18
+## Danh sách thành viên nhóm 18
 1. Dương Ngọc Thái Bảo - 21120041
 2. Trương Tấn Đạt - 21120050
 3. Nguyễn Thanh Huệ - 21120076
